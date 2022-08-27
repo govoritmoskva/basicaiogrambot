@@ -4,7 +4,7 @@
 
 ## 🛠Links
 
-[Aiogram documentary](https://docs.aiogram.dev/en/latest/quick_start.html)
+[Aiogram documentary](https://docs.aiogram.dev/en/latest/quick_start.html) \
 [Asyncio documentary](https://docs.python.org/3/library/asyncio.html)
 
 ## 📂Some examples of code
