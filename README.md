@@ -24,3 +24,4 @@ async def send_welcome(message: types.Message):
    await message.reply("Hey!\nI'm ManxnsBot!\nCreated by manixonex.")
 ```
 ## 💾Example in Telegram
+![yo](https://github.com/manixonex/basicaiogrambot/blob/main/aiogram/images/exampletelegram.png)
