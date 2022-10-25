@@ -4,8 +4,8 @@
 
 ## 🛠Links
 
-[Aiogram documentary](https://docs.aiogram.dev/en/latest/quick_start.html) \
-[Asyncio documentary](https://docs.python.org/3/library/asyncio.html)
+[Aiogram documentation](https://docs.aiogram.dev/en/latest/quick_start.html) \
+[Asyncio documentation](https://docs.python.org/3/library/asyncio.html)
 
 ## 📂Some examples of code
 ```
